@@ -14,6 +14,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-CPUR.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-CPUR.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-EC.aml</string>
 				<key>Enabled</key>
 				<true/>
